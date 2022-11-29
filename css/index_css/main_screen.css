@@ -1,0 +1,67 @@
+.main_screen {
+    background-image: url(/img/shot.png);
+    min-height: 88.1vh;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.wrap {
+    height: 300px;
+    width: 800px;
+    z-index: 900;
+    left: auto;
+    margin-bottom: 20px;
+}
+
+#zagalovok {
+    color: rgb(220, 220, 220);
+    font-size: 50px;
+    text-align: center;
+    margin: 10px;
+    animation-name: mn_zagalovok;
+    animation-duration: 1.5s;
+}
+
+
+.main_title {
+    max-width: 90%;
+    font-size: 2.31rem;
+    font-weight: 500;
+    color: rgb(220, 220, 220);
+    text-align: center;
+    margin: auto;
+    mix-blend-mode: revert;
+    animation-name: mn_ttl;
+    animation-duration: 1.5s;
+}
+
+@keyframes mn_ttl{
+    0% {
+        opacity: 0;
+        transform: scale(0.6);
+    }
+    100% {
+        opacity: 1;
+        transform: scale(1);
+    }
+}
+
+@keyframes mn_zagalovok{
+    0% {
+        opacity: 0;
+        transform: scale(0.6);
+    }
+    100% {
+        opacity: 1;
+        transform: scale(1);
+    }
+}
+
+#about {
+    border-color: black;
+    background-color: black;
+}

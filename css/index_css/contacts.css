@@ -1,0 +1,33 @@
+.contact {
+    background-color: rgb(249, 249, 249);
+    min-height: 75vh;
+    z-index: 998;
+}
+
+.title {    
+    font-size: 2.2rem;
+    font-weight: 700;
+    color: rgb(70, 70, 70);
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.contact h3 {
+    margin-top: 10px;
+    margin-bottom: 25px;
+}
+
+.contact_wrap-text {
+    font-size: 2rem;
+    font-weight: 600;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center center;
+    margin-bottom: 50px;
+    padding-top: 45px;
+}
+
+.contact_wrap-text p {
+    margin-top: 45px;
+}

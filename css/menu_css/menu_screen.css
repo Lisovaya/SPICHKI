@@ -1,0 +1,56 @@
+.menu_screen {
+    background-color: rgb(249, 249, 249);
+    min-height: 195vh;
+}
+
+.wrap_menu {
+    height: 100px;
+    width: 800px;
+    z-index: 900;
+    margin-left: 275px;
+}
+
+#zagalovok_menu {
+    color: rgb(0, 0, 0);
+    font-size: 50px;
+    text-align: center;
+    font-weight: 700;
+    margin: 20px;
+}
+
+.wrap_img_menu {
+    display: flex;
+    justify-content: center;
+    align-items: center
+}
+
+.wrap_img_menu img{
+    height: 850px;
+    width: 700px;
+    margin: 10px;
+}
+
+.wrap_img_menu2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.wrap_img_menu2 img{
+    height: 850px;
+    width: 700px;
+    margin: 10px;
+}
+
+.wrap_img_menu3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 20px;
+}
+
+.wrap_img_menu3 img{
+    height: 850px;
+    width: 700px;
+    margin: 10px;
+}

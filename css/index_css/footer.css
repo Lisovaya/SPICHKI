@@ -1,0 +1,45 @@
+.footer {
+    background-color: rgb(29, 29, 29);
+    min-height: 12vh;
+}
+
+.text_podval {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 30px;
+    color: rgb(255, 255, 255);
+    font-weight: 600;
+    font-size: 1.5rem;
+}
+
+#prava_podval {
+    padding-top: 8px;
+}
+
+#text_podval_title {
+    color: rgb(255, 255, 255);
+    font-weight: 600;
+    font-size: 1.7rem;
+    margin-right: 30px;
+    padding-top: 3px;
+}
+
+.social {
+    display: flex;
+    cursor: pointer;
+    outline: none;
+}
+
+.social p{
+    cursor: auto;
+}
+
+.social_img_button img{
+   height: 40px;
+   width: 40px;
+   margin-right: 20px;
+}
+
+.social_img_button img :last-child {
+    margin-right: 5px;
+}
