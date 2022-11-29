@@ -1,4 +1,13 @@
 .main_screen {
+    background-image: url(/img/shot.png);
+    min-height: 88.1vh;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;   
+
 }
 
 .wrap {
