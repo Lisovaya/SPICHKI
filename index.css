@@ -1,19 +1,19 @@
 /*general*/
-@import "./css/index_css/header.css";
-@import "./css/index_css/footer.css";
-@import "./css/index_css/fonts.css";
+@import "../css/index_css/header.css";
+@import "../css/index_css/footer.css";
+@import "../css/index_css/fonts.css";
 
 
 /*index_css*/
-@import "./css/index_css/main_screen.css";
-@import "./css/index_css/contacts.css";
-@import "./css/index_css/about.css";
+@import "../css/index_css/main_screen.css";
+@import "../css/index_css/contacts.css";
+@import "../css/index_css/about.css";
 
 
 /*menu_css*/
-@import "./css/menu_css/menu_screen.css";
-@import "./css/index_css/contacts.css";
-@import "./css/index_css/about.css";
+@import "../css/menu_css/menu_screen.css";
+@import "../css/index_css/contacts.css";
+@import "../css/index_css/about.css";
 
 
 * {
