@@ -43,7 +43,7 @@
     text-transform: uppercase;
 }
 
-.about_wrap-description p * {
+.about_wrap-description * {
     text-align: justify;
     font-weight: 700;
     margin-bottom: 10px;
