@@ -44,8 +44,8 @@
 }
 
 .about_wrap-description * {
+    margin-bottom: 5px;
     text-align: justify;
-    text-align: center;
     font-weight: 700;
     margin-bottom: 10px;
     font-size: 1.5rem;
