@@ -48,9 +48,8 @@
     font-weight: 700;
     margin-bottom: 10px;
     font-size: 1.5rem;
-    margin-bottom: 5px;
 }
 
-.about_wrap-description:last-child *{
+.about_wrap-description *{
     margin-bottom: 0px;
 }
