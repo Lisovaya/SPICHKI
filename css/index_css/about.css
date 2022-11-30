@@ -3,6 +3,7 @@
     min-height: 68.5vh;
 
 }
+
 .about_wrap {
     display: flex;
     justify-content: space-between;
@@ -12,10 +13,12 @@
     margin-left: 25px;
     margin-right: 25px;
 }
+
 .about_wrap-img {
     width: 700px;
     height: 600px;
 }
+
 .about_wrap-img img {
     padding-bottom: 17px;
     width: 100%;
@@ -23,12 +26,14 @@
     object-fit: contain;
     object-position: center;
 }
+
 .about_wrap-text {
     width: 500px;
     height: 500px;
     padding-top: 5px;
     align-items: center center;
 }
+
 .title {
     margin-bottom: 20px;
     font-size: 2.6rem;
@@ -37,6 +42,7 @@
     text-align: center;
     text-transform: uppercase;
 }
+
 .about_wrap-description * {
     text-align: justify;
     font-weight: 700;
