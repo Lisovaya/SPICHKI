@@ -43,7 +43,7 @@
     text-transform: uppercase;
 }
 
-.about_wrap-description * {
+.about_wrap-description p * {
     margin-bottom: 5px;
     text-align: justify;
     font-weight: 700;
@@ -51,6 +51,6 @@
     font-size: 1.5rem;
 }
 
-.about_wrap-description *{
+.about_wrap-description:last-child p *{
     margin-bottom: 0px;
 }
