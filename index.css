@@ -15,6 +15,54 @@
 @import "../SPICHKI/css/index_css/contacts.css";
 @import "../SPICHKI/css/index_css/about.css";
 
+@media screen and (max-width: 320px){
+    .container {
+        min-width: 320px;
+        margin: auto;
+        padding: 0 10px;
+    }
+}
+
+@media screen and (max-width: 480px){
+    .container {
+        min-width: 480px;
+        margin: auto;
+        padding: 0 10px;
+    }
+}
+
+@media screen and (max-width: 600px){
+    .container {
+        min-width: 600px;
+        margin: auto;
+        padding: 0 10px;
+    }
+}
+
+@media screen and (max-width: 768px){
+    .container {
+        min-width: 768px;
+        margin: auto;
+        padding: 0 10px;
+    }
+}
+
+@media screen and (max-width: 1024px){
+    .container {
+        min-width: 1024px;
+        margin: auto;
+        padding: 0 10px;
+    }
+}
+
+@media screen and (min-width: 1280px){
+    .container {
+        min-width: 1280px;
+        margin: auto;
+        padding: 0 10px;
+    }
+}
+
 * {
     margin: 0;
     padding: 0;
